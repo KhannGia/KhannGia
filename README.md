@@ -78,14 +78,6 @@ End-to-end analytics-engineering project simulating a Vietnamese e-commerce fash
 - Conducted preliminary financial analysis (balance sheets, income & cash-flow statements) to assess operational efficiency and financial health.
 - Used **SQL, Python (pandas, scikit-learn), and Power BI** to analyze financial KPIs and credit-risk indicators, and **Apache Airflow** to automate data pipelines and reporting.
 
-## Education
-
-🎓 **Bachelor of Financial Technology** — VNU-HCM University of Economics and Law · 2023 – 2027 (Expected) · GPA 3.12 / 4.00
-
-## Certifications
-
-- Google Advanced Data Analytics
-- TOEIC 830+
 
 ## Contact
 
