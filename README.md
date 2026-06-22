@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tran Gia Khanh </h1>
 
 <p align="center">
-  <em>Business Analyst &amp; Analytics Engineer in the making • Web3 / DeFi • Fintech @ UEL</em>
+  <em>Blockchain Developer &amp; Analytics Engineer in the making • Web3 / DeFi • Fintech @ UEL</em>
 </p>
 
 ---
