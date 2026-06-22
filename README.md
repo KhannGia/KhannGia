@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tran Gia Khanh 👋</h1>
+<h1 align="center">Hi, I'm Tran Gia Khanh </h1>
 
 <p align="center">
   <em>Business Analyst &amp; Analytics Engineer in the making • Web3 / DeFi • Fintech @ UEL</em>
@@ -12,9 +12,9 @@ Third-year **Financial Technology** student at **VNU-HCM University of Economics
 
 I love working at the intersection of finance and Web3 — leveraging market research and **Decentralized Finance (DeFi)** to design solutions that connect traditional global markets with the on-chain world. My long-term goal is to build secure business models that optimize **on-chain credit processes and risk management**.
 
-- 🔭 Focused on **on-chain analytics**, **DeFi lending**, and **credit risk**
-- 🧱 Comfortable across the stack: smart contracts, data pipelines, and dashboards
-- 🌏 Bridging **TradFi ↔ Web3**
+-  Focused on **on-chain analytics**, **DeFi lending**, and **credit risk**
+-  Comfortable across the stack: smart contracts, data pipelines, and dashboards
+-  Bridging **TradFi ↔ Web3**
 
 ## What I Do
 
@@ -66,7 +66,7 @@ Privacy-preserving Web3 lending platform. **Role:** Team Leader & Analytics Engi
 - Developed a full-stack architecture with **Next.js 14, Ethers.js v6, and MongoDB** for off-chain analytics, loan histories, and responsive dashboards (Recharts).
 - 🔗 [Live demo](https://zkk-onee.vercel.app/)
 
-### 📊 Analytics Viewer — _personal_
+###  Analytics Viewer — _personal_
 End-to-end analytics-engineering project simulating a Vietnamese e-commerce fashion enterprise.
 - Engineered a high-performance **dbt Core + ETL pipeline** transforming chaotic inputs into query-ready datasets on **PostgreSQL**.
 - Delivered comprehensive **EDA & visualization**, surfacing patterns and trends across transactional, operational, and analytical data layers.
