@@ -8,7 +8,7 @@
 
 ## About Me
 
-Third-year **Financial Technology** student at **VNU-HCM University of Economics and Law**, aspiring to become a **Business Analyst in the Blockchain industry**.
+Third-year **Financial Technology** student at **VNU-HCM University of Economics and Law**, aspiring to become a **Blockchain Developer in the Web3 industry**.
 
 I love working at the intersection of finance and Web3 — leveraging market research and **Decentralized Finance (DeFi)** to design solutions that connect traditional global markets with the on-chain world. My long-term goal is to build secure business models that optimize **on-chain credit processes and risk management**.
 
