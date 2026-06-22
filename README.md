@@ -66,22 +66,15 @@ Privacy-preserving Web3 lending platform. **Role:** Team Leader & Analytics Engi
 - Developed a full-stack architecture with **Next.js 14, Ethers.js v6, and MongoDB** for off-chain analytics, loan histories, and responsive dashboards (Recharts).
 - 🔗 [Live demo](https://zkk-onee.vercel.app/)
 
-###  Analytics Viewer — _personal_
+### 📊 Analytics Viewer — _personal_
 End-to-end analytics-engineering project simulating a Vietnamese e-commerce fashion enterprise.
 - Engineered a high-performance **dbt Core + ETL pipeline** transforming chaotic inputs into query-ready datasets on **PostgreSQL**.
 - Delivered comprehensive **EDA & visualization**, surfacing patterns and trends across transactional, operational, and analytical data layers.
 
-## Experience
-
-**Market Research Intern (SMEs)** — _Vietnam Joint Stock Commercial Bank for Industry and Trade (VietinBank)_ · Jan 2025 – May 2025
-- Processed corporate loan applications and reviewed initial credit profiles for completeness and accuracy.
-- Conducted preliminary financial analysis (balance sheets, income & cash-flow statements) to assess operational efficiency and financial health.
-- Used **SQL, Python (pandas, scikit-learn), and Power BI** to analyze financial KPIs and credit-risk indicators, and **Apache Airflow** to automate data pipelines and reporting.
-
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:giakhanhtran335@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanngia/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KhannGia)
 
 <p align="center"><sub>Thanks for visiting — feel free to reach out! 🚀</sub></p>
