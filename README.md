@@ -1,51 +1,57 @@
-<h1 align="center">Hi, I'm Tran Gia Khanh </h1>
+<h1 align="center">Hi, I'm Tran Gia Khanh 👋</h1>
 
 <p align="center">
-  <em>Blockchain Developer &amp; Analytics Engineer in the making • Web3 / DeFi • Fintech @ UEL</em>
+  <strong>Junior Blockchain Developer</strong>
+</p>
+<p align="center">
+  <em>Smart Contracts • Web3 Middleware • DeFi • Fintech @ UEL</em>
 </p>
 
 ---
 
 ## About Me
 
-Third-year **Financial Technology** student at **VNU-HCM University of Economics and Law**, aspiring to become a **Blockchain Developer in the Web3 industry**.
+Blockchain Developer Intern and **Financial Technology** major at **VNU-HCM University of Economics and Law**, transitioning into a Junior role.
 
-I love working at the intersection of finance and Web3 — leveraging market research and **Decentralized Finance (DeFi)** to design solutions that connect traditional global markets with the on-chain world. My long-term goal is to build secure business models that optimize **on-chain credit processes and risk management**.
+I write and thoroughly test **secure smart contracts**, build **Web3 middleware**, and integrate **hybrid data architectures** in production-grade environments. I'm seeking a **Junior Blockchain Developer** position where I can independently own features and build scalable decentralized applications.
 
--  Focused on **on-chain analytics**, **DeFi lending**, and **credit risk**
--  Comfortable across the stack: smart contracts, data pipelines, and dashboards
--  Bridging **TradFi ↔ Web3**
+-  Writing & testing secure smart contracts (ERC-20 / ERC-721 / ERC-1155)
+-  Building Web3 middleware and on-chain data indexing pipelines
+-  Researching DeFi, ZK proofs, Account Abstraction, L2/L3 rollups & RWA tokenization
+-  Based in Thu Duc, Ho Chi Minh City
 
 ## What I Do
 
-- **Business Analysis** — market research, financial analysis, credit risk evaluation
-- **Analytics Engineering** — ETL pipelines, data modeling (dbt), and dashboard visualization
-- **Web3 Development** — Solidity smart contracts, on-chain data middleware, ZK proofs
+- **Smart Contract Development** — token protocols, access control, staking logic in Solidity
+- **Testing & Security** — comprehensive unit testing with Hardhat & Foundry, edge-case validation
+- **Web3 Integration** — on-chain data indexing, live event listeners, hybrid on/off-chain databases
 
 ## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Data &amp; Analytics**
+**Blockchain &amp; Web3**
 
+![Ethers.js](https://img.shields.io/badge/Ethers.js%20v6-2535A0?style=flat&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-2A2A2A?style=flat)
+![Alchemy](https://img.shields.io/badge/Alchemy-0F1FE0?style=flat)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+
+**Backend &amp; Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Web3**
-
-![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js%20v6-2535A0?style=flat&logo=ethereum&logoColor=white)
-![SnarkJS](https://img.shields.io/badge/SnarkJS%20(ZK--SNARK)-8A2BE2?style=flat&logo=zcash&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Tools**
 
@@ -55,21 +61,25 @@ I love working at the intersection of finance and Web3 — leveraging market res
 ## Featured Projects
 
 ### 🏆 DETECTUS — _Top 10 Finalists, VietChain Talent 2025_
-On-chain credit-scoring platform. **Role:** Team Leader & Analytics Engineer · **Stack:** Solidity · MongoDB · Web3 Middleware
-- Designed a **middleware architecture** to query on-chain data, analyzing transaction frequencies and behavioral patterns of crypto wallets.
+On-chain credit-scoring platform. **Role:** Team Leader & Smart Contract Developer · **Stack:** Solidity · MongoDB · Web3 Middleware
+- Designed and implemented a **middleware architecture** to query on-chain data, analyzing transaction frequencies and behavioral patterns of crypto wallets.
 - Engineered a **hybrid database model** combining MongoDB (off-chain user data & traditional CIC credit scores) with on-chain ledger data to optimize retrieval and query speed.
 - 🔗 [Live demo](https://dancing-capybara-d45852.netlify.app/)
 
 ### 🏆 StreamCredit — _Top 6, The Finnovative Hackathon_
-Privacy-preserving Web3 lending platform. **Role:** Team Leader & Analytics Engineer · **Stack:** Solidity · SnarkJS · MongoDB
-- Built an academic Web3 lending platform using **Zero-Knowledge Proofs (ZK-SNARK, Groth16)** to verify business revenue without exposing sensitive corporate data.
-- Developed a full-stack architecture with **Next.js 14, Ethers.js v6, and MongoDB** for off-chain analytics, loan histories, and responsive dashboards (Recharts).
+Privacy-preserving Web3 lending platform. **Role:** Team Leader & Smart Contract Developer · **Stack:** Solidity · SnarkJS · MongoDB · Next.js · Ethers.js
+- Engineered an academic Web3 lending platform to facilitate global capital flow, using **Zero-Knowledge Proofs (ZK-SNARK, Groth16)** to verify business revenue without exposing sensitive corporate data.
+- Built a high-performance full-stack architecture with **Next.js 14, Ethers.js v6, and MongoDB** for off-chain analytics, loan histories, and responsive dashboards (Recharts).
 - 🔗 [Live demo](https://zkk-onee.vercel.app/)
 
-### 📊 Analytics Viewer — _personal_
-End-to-end analytics-engineering project simulating a Vietnamese e-commerce fashion enterprise.
-- Engineered a high-performance **dbt Core + ETL pipeline** transforming chaotic inputs into query-ready datasets on **PostgreSQL**.
-- Delivered comprehensive **EDA & visualization**, surfacing patterns and trends across transactional, operational, and analytical data layers.
+## Education
+
+🎓 **Bachelor of Financial Technology** — VNU-HCM University of Economics and Law · 2023 – 2027 (Expected) · GPA 3.12 / 4.00
+
+## Certifications
+
+- Google Advanced Data Analytics
+- TOEIC 830+
 
 ## Contact
 
