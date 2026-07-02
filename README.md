@@ -74,7 +74,7 @@ Privacy-preserving Web3 lending platform. **Role:** Team Leader & Smart Contract
 
 ## Education
 
-🎓 **Bachelor of Financial Technology** — VNU-HCM University of Economics and Law · 2023 – 2027 (Expected) · GPA 3.12 / 4.00
+🎓 **Bachelor of Financial Technology** — VNU-HCM University of Economics and Law · 2023 – 2027 (Expected) · GPA 3.2 / 4.00
 
 ## Certifications
 
