@@ -60,12 +60,6 @@ I write and thoroughly test **secure smart contracts**, build **Web3 middleware*
 
 ## Featured Projects
 
-### 🏆 DETECTUS — _Top 10 Finalists, VietChain Talent 2025_
-On-chain credit-scoring platform. **Role:** Team Leader & Smart Contract Developer · **Stack:** Solidity · MongoDB · Web3 Middleware
-- Designed and implemented a **middleware architecture** to query on-chain data, analyzing transaction frequencies and behavioral patterns of crypto wallets.
-- Engineered a **hybrid database model** combining MongoDB (off-chain user data & traditional CIC credit scores) with on-chain ledger data to optimize retrieval and query speed.
-- 🔗 [Live demo](https://dancing-capybara-d45852.netlify.app/)
-
 ### 🏆 StreamCredit — _Top 6, The Finnovative Hackathon_
 Privacy-preserving Web3 lending platform. **Role:** Team Leader & Smart Contract Developer · **Stack:** Solidity · SnarkJS · MongoDB · Next.js · Ethers.js
 - Engineered an academic Web3 lending platform to facilitate global capital flow, using **Zero-Knowledge Proofs (ZK-SNARK, Groth16)** to verify business revenue without exposing sensitive corporate data.
@@ -78,7 +72,7 @@ Privacy-preserving Web3 lending platform. **Role:** Team Leader & Smart Contract
 
 ## Certifications
 
-- Google Advanced Data Analytics
+- Google Advanced Data Analytics, Google Agile Essentials
 - TOEIC 830+
 
 ## Contact
