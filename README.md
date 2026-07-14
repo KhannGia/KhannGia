@@ -18,7 +18,6 @@ I write and thoroughly test **secure smart contracts**, build **Web3 middleware*
 -  Writing & testing secure smart contracts (ERC-20 / ERC-721 / ERC-1155)
 -  Building Web3 middleware and on-chain data indexing pipelines
 -  Researching DeFi, ZK proofs, Account Abstraction, L2/L3 rollups & RWA tokenization
--  Based in Thu Duc, Ho Chi Minh City
 
 ## What I Do
 
