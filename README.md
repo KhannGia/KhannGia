@@ -13,7 +13,7 @@
 
 Blockchain Developer Intern and **Financial Technology** major at **VNU-HCM University of Economics and Law**, transitioning into a Junior role.
 
-I write and thoroughly test **secure smart contracts**, build **Web3 middleware**, and integrate **hybrid data architectures** in production-grade environments. I'm seeking a **Junior Blockchain Developer** position where I can independently own features and build scalable decentralized applications.
+I write and thoroughly test **secure smart contracts**, build **Web3 middleware**, and integrate **hybrid data architectures** in production-grade environments. I'm seeking a **Junior Blockchain Developer, IT Business Analyst** position where I can independently own features and build scalable decentralized applications.
 
 -  Writing & testing secure smart contracts (ERC-20 / ERC-721 / ERC-1155)
 -  Building Web3 middleware and on-chain data indexing pipelines
