@@ -4,7 +4,7 @@
   <strong>IT Business Analyst & Junior Blockchain Developer</strong>
 </p>
 <p align="center">
-  <em>Fintech Domain • Lending & Credit Systems • Smart Contracts • System & Business Analysis @ UEL</em>
+  <em>Fintech Domain • Lending & Credit Systems • Smart Contracts • System & Business Analysis</em>
 </p>
 
 ---
@@ -93,4 +93,4 @@ Privacy-preserving Web3 lending platform. **Role:** Team Leader, Business Analys
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanngia/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KhannGia)
 
-<p align="center"><sub>Thanks for visiting — feel free to reach out! 🚀</sub></p>
+<p align="center"><sub>Thanks for visiting — feel free to reach out! </sub></p>
